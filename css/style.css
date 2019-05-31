@@ -24,7 +24,7 @@ nav .breadcrumb a,  nav .breadcrumb li{
 
 @media (min-width: 62em) {
 .program-heading {
-    margin-top: 7rem;
+    margin-top: 1rem;
     font-size: 50px;
 }
 }
@@ -34,7 +34,8 @@ nav .breadcrumb a,  nav .breadcrumb li{
 }
 
 .program-img {
-    max-width: 400px;
+    /* max-width: 400px; */
+    width: 80%;
 }
 
 .profile {
